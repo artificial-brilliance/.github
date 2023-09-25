@@ -1,6 +1,10 @@
 # Artificial Brilliance
 
-Artificial Brilliance is a place to explore the possibilities of artificial intelligence with the goal of sharing what I have learned with others as well as learn from others.
+Artificial Brilliance is a place to explore the possibilities of artificial intelligence.
+
+I, Dominic Kramer, created this organization with the goal of sharing what I have learned with others as well as learn from others.
+
+See my accompanying blog at [dominickramer.com](https://www.dominickramer.com) for blog posts describing the code in this organization in detail, as well as my [Github page](https://github.com/DominicKramer) for more information on other things I am working on.
 
 This organization’s code is designed to be illustrative in nature rather than being being production ready, to help learn and illustrate topics. As such, some common practices might not be followed if doing so makes the code easier to follow and learn from.
 
